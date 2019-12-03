@@ -4,10 +4,11 @@
         "composite": true
     },
     "include": [
-        "src",
-        "../../types/index.d.ts"
+        "src/**/*.spec.ts"
     ],
-    "exclude": [
-        "**/*.spec.ts"
+    "references": [
+        {
+            "path": "./tsconfig.json"
+        }
     ]
 }

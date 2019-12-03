@@ -17,7 +17,7 @@
             "path": "../core"
         },
         {
-            "path": "./tsconfig.impl.json"
+            "path": "./tsconfig.json"
         }
     ]
 }

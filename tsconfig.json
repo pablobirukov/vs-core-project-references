@@ -8,7 +8,16 @@
             "path": "./packages/animal/tsconfig.spec.json"
         },
         {
+            "path": "./packages/tree/tsconfig.json"
+        },
+        {
+            "path": "./packages/tree/tsconfig.spec.json"
+        },
+        {
             "path": "./packages/core/tsconfig.json"
+        },
+        {
+            "path": "./packages/core/tsconfig.spec.json"
         }
     ]
 }
