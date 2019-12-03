@@ -1,0 +1,14 @@
+{
+    "files": [],
+    "references": [
+        {
+            "path": "./packages/animal/tsconfig.impl.json"
+        },
+        {
+            "path": "./packages/animal/tsconfig.spec.json"
+        },
+        {
+            "path": "./packages/core/tsconfig.json"
+        }
+    ]
+}
